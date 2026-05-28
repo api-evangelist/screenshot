@@ -1,0 +1,32 @@
+aid: screenshot
+name: Screenshot
+description: "Take programmatic screenshots of web pages from any website"
+url: https://www.abstractapi.com/website-screenshot-api
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Development"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Development
+  - Public APIs
+apis:
+  - name: Screenshot
+    description: "Take programmatic screenshots of web pages from any website"
+    humanURL: https://www.abstractapi.com/website-screenshot-api
+    baseURL: https://www.abstractapi.com/website-screenshot-api
+    tags:
+      - Development
+    properties:
+      - type: Documentation
+        url: https://www.abstractapi.com/website-screenshot-api
+common:
+  - type: Website
+    url: https://www.abstractapi.com/website-screenshot-api
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
