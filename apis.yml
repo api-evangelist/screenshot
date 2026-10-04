@@ -39,7 +39,6 @@ apis:
   - name: Screenshot
     description: "Take programmatic screenshots of web pages from any website"
     humanURL: https://www.abstractapi.com/website-screenshot-api
-    baseURL: https://www.abstractapi.com/website-screenshot-api
     tags:
       - Development
     properties:
